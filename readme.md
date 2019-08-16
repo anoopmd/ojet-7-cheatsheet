@@ -48,4 +48,6 @@ ojet serve
 * [Styling guide](https://www.oracle.com/webfolder/technetwork/jet/stylingdocs/index.html)
 * [WorkBetter App demo](https://www.oracle.com/webfolder/technetwork/jet-320/public_samples/WorkBetter/public_html/index.html)
 * [Geertjan training example](https://github.com/geertjanw/ojet-training)
+* [Duncan Mills JET Blog](https://blogs.oracle.com/groundside/jet)
+* [Custom JET Components](https://blogs.oracle.com/groundside/cca)
 
