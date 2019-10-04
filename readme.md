@@ -37,6 +37,11 @@ ojet build
 ojet serve
 ```
 
+### Google Group
+[Google Group](https://groups.google.com/forum/#!forum/oracle-jet-training)
+
+Please join the above group to get frequent updates regarding OJET training material updates and to ask any questions
+
 ### Useful links
 * [Website](http://www.oracle.com/webfolder/technetwork/jet/index.html)
 * [Developer Docs](https://docs.oracle.com/en/middleware/developer-tools/jet/7.1/develop/index.html)
